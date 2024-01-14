@@ -2,10 +2,10 @@
 
 Welcome to the Todo App! This React Native mobile app is here to simplify your task management to enhances your productivity seamlessly. The app provides a sleek and user-friendly design, prioritizing ease of use and making task management a breeze. It also presents a visually appealing and modern design. Using Material UI elements, the app ensures an aesthetically pleasing and contemporary user experience. One standout feature of the Todo App is its sectioned approach to task management, neatly categorizing tasks into "Completed" and "Pending" sections. 
 
-![1](https://github.com/ketan952/Todo-App-for-Go-Grab/assets/108462957/79079917-ae1e-41f2-86a9-b48f4e2a33c9)
-![2](https://github.com/ketan952/Todo-App-for-Go-Grab/assets/108462957/e0e013c0-67fb-4377-8c24-4b5eed037d3b)
-![3](https://github.com/ketan952/Todo-App-for-Go-Grab/assets/108462957/b1e0ece7-a057-4c37-bdb4-799f3e1a347b)
-![4](https://github.com/ketan952/Todo-App-for-Go-Grab/assets/108462957/3133af52-00f2-4f1b-8a80-9cdb89a761cb)
+| <img src="https://github.com/ketan952/Todo-App-for-Go-Grab/assets/108462957/79079917-ae1e-41f2-86a9-b48f4e2a33c9" width="300"/> | <img src="https://github.com/ketan952/Todo-App-for-Go-Grab/assets/108462957/e0e013c0-67fb-4377-8c24-4b5eed037d3b" width="300"/> |
+| --- | --- |
+| <img src="https://github.com/ketan952/Todo-App-for-Go-Grab/assets/108462957/b1e0ece7-a057-4c37-bdb4-799f3e1a347b" width="300"/> | <img src="https://github.com/ketan952/Todo-App-for-Go-Grab/assets/108462957/3133af52-00f2-4f1b-8a80-9cdb89a761cb" width="300"/> |
+
 
 ## Key Features
 
