@@ -1,7 +1,11 @@
 # Todo App
 
-Welcome to the Todo App! This React Native mobile app is here to simplify your task management, offering a feature-rich experience that enhances your productivity seamlessly. The app provides a sleek and user-friendly design, prioritizing ease of use and making task management a breeze.Not only does the Todo App excel in functionality, but it also presents a visually appealing and modern design. By leveraging Material UI elements, the app ensures an aesthetically pleasing and contemporary user experience.One standout feature of the Todo App is its sectioned approach to task management, neatly categorizing tasks into "Completed" and "Pending" sections. This customizable layout ensures a clear distinction and efficient organization of your tasks.
+Welcome to the Todo App! This React Native mobile app is here to simplify your task management to enhances your productivity seamlessly. The app provides a sleek and user-friendly design, prioritizing ease of use and making task management a breeze. It also presents a visually appealing and modern design. Using Material UI elements, the app ensures an aesthetically pleasing and contemporary user experience. One standout feature of the Todo App is its sectioned approach to task management, neatly categorizing tasks into "Completed" and "Pending" sections. 
 
+![1](https://github.com/ketan952/Todo-App-for-Go-Grab/assets/108462957/79079917-ae1e-41f2-86a9-b48f4e2a33c9)
+![2](https://github.com/ketan952/Todo-App-for-Go-Grab/assets/108462957/e0e013c0-67fb-4377-8c24-4b5eed037d3b)
+![3](https://github.com/ketan952/Todo-App-for-Go-Grab/assets/108462957/b1e0ece7-a057-4c37-bdb4-799f3e1a347b)
+![4](https://github.com/ketan952/Todo-App-for-Go-Grab/assets/108462957/3133af52-00f2-4f1b-8a80-9cdb89a761cb)
 
 ## Key Features
 
@@ -13,19 +17,19 @@ Welcome to the Todo App! This React Native mobile app is here to simplify your t
 
 ## Challenges Faced
 
-### 1. Database Initialization Challenge:
+#### 1. Database Initialization Challenge:
    - **Issue:** I faced difficulties integrating the SQLite database into my application. Specifically, determining when to create the necessary tables and initialize the database was a challenge.
    - **Solution:** I resolved this issue by deciding to create tables that would be initially empty when the application is uploaded. This approach successfully addressed the initialization problem.
 
-### 2. Real-time Task Addition Challenge:
+#### 2. Real-time Task Addition Challenge:
    - **Issue:** After adding a new task to a group, the task wasn't immediately appearing on the TodoList screen. Navigating back to the Home screen and then returning to the TodoList screen was required to see the newly added task.
    - **Solution:** To overcome this, I experimented with different approaches and found success by passing functions as parameters to the `navigation.navigate` function. This ensured that the task appeared on the TodoList screen instantly upon addition.
 
-### 3. Group Deletion and Task Removal Challenge:
+#### 3. Group Deletion and Task Removal Challenge:
    - **Issue:** When deleting a group, only the group's data was removed from the group table, leaving the tasks associated with that group intact.
    - **Solution:** I addressed this challenge by implementing functionality to delete all tasks associated with a particular group when deleting the group itself. This ensured a complete removal of both the group and its associated tasks.
 
-### 4. Styling and Design Challenges:
+#### 4. Styling and Design Challenges:
    - **Issue:** Styling and designing various screens of the todo app posed challenges. Determining suitable layouts for each screen and achieving an aesthetically pleasing design were significant hurdles.
    - **Solution:** To tackle this, I dedicated time to exploring different design options and layouts. Seeking inspiration from user-friendly interfaces, I eventually settled on a design that was both visually appealing and provided a seamless user experience.
 
