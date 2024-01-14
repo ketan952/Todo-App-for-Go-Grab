@@ -6,6 +6,10 @@ Welcome to the Todo App! This React Native mobile app is here to simplify your t
 | --- | --- |
 | <img src="https://github.com/ketan952/Todo-App-for-Go-Grab/assets/108462957/b1e0ece7-a057-4c37-bdb4-799f3e1a347b" width="300"/> | <img src="https://github.com/ketan952/Todo-App-for-Go-Grab/assets/108462957/3133af52-00f2-4f1b-8a80-9cdb89a761cb" width="300"/> |
 
+## Video Tutorial
+
+[Watch the Video Tutorial](https://drive.google.com/file/d/1p2UENkZMLCdGiSGJRrkibZ13LYX6CDdq/view?usp=sharing)
+
 
 ## Key Features
 
