@@ -11,6 +11,24 @@ Welcome to the Todo App! This React Native mobile app is here to simplify your t
 4. Edit task titles and descriptions flexibly, adapting to the dynamic nature of your work.
 
 
+## Challenges Faced
+
+### 1. Database Initialization Challenge:
+   - **Issue:** I faced difficulties integrating the SQLite database into my application. Specifically, determining when to create the necessary tables and initialize the database was a challenge.
+   - **Solution:** I resolved this issue by deciding to create tables that would be initially empty when the application is uploaded. This approach successfully addressed the initialization problem.
+
+### 2. Real-time Task Addition Challenge:
+   - **Issue:** After adding a new task to a group, the task wasn't immediately appearing on the TodoList screen. Navigating back to the Home screen and then returning to the TodoList screen was required to see the newly added task.
+   - **Solution:** To overcome this, I experimented with different approaches and found success by passing functions as parameters to the `navigation.navigate` function. This ensured that the task appeared on the TodoList screen instantly upon addition.
+
+### 3. Group Deletion and Task Removal Challenge:
+   - **Issue:** When deleting a group, only the group's data was removed from the group table, leaving the tasks associated with that group intact.
+   - **Solution:** I addressed this challenge by implementing functionality to delete all tasks associated with a particular group when deleting the group itself. This ensured a complete removal of both the group and its associated tasks.
+
+### 4. Styling and Design Challenges:
+   - **Issue:** Styling and designing various screens of the todo app posed challenges. Determining suitable layouts for each screen and achieving an aesthetically pleasing design were significant hurdles.
+   - **Solution:** To tackle this, I dedicated time to exploring different design options and layouts. Seeking inspiration from user-friendly interfaces, I eventually settled on a design that was both visually appealing and provided a seamless user experience.
+
 
 ## Getting Started
 
